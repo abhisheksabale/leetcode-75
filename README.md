@@ -8,31 +8,18 @@ This repository contains my solutions for **LeetCode 75**, with:
 ---
 
 ## 📊 Progress Tracker
-| Pattern          | Problems Solved | Total |
-|------------------|---------------|-------|
-| **Total**        | **0**         | **75** ✅ |
+| Problems Solved | Total |
+|-----------------|-------|
+| **1**           | **75** ✅ |
 
 ---
 
 ## 🗂 Problem List
 
-| # | Pattern | Problem | Brute Force | Optimized |
-|---|---------|--------|-------------|-----------|
-| 1 |  | [1768. Merge Strings Alternately]() | Done | In Progress |
-| 2 |  | [1071. Greatest Common Divisor of Strings]() | TODO | TODO |
-
----
-
-## 📚 Patterns Covered
-- 🟦 **Two Pointers**  
-- 🟩 **Sliding Window**  
-- 🟨 **HashMap / Set**  
-- 🟧 **Binary Search**  
-- 🟥 **Stack / Monotonic Stack**  
-- 🟪 **Prefix Sum**  
-- 🟫 **Greedy**  
-- 🔵 **Dynamic Programming**  
-- 🟢 **DFS / BFS**
+| # | Pattern     | Problem                                                                         | Brute Force | Optimized |
+|---|-------------|---------------------------------------------------------------------------------|-------------|-----------|
+| 1 | One Pointer | [1768. Merge Strings Alternately](one_pointer/1768_merge_strings_alternatively) | Done | Done      |
+| 2 |             | [1071. Greatest Common Divisor of Strings]()                                    | TODO | TODO      |
 
 ---
 
