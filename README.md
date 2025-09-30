@@ -10,7 +10,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 ## 📊 Progress Tracker
 | Problems Solved | Total |
 |-----------------|-------|
-| **1**           | **75** ✅ |
+| **2**           | **75** ✅ |
 
 ---
 
@@ -18,8 +18,8 @@ This repository contains my solutions for **LeetCode 75**, with:
 
 | # | Pattern     | Problem                                                                         | Brute Force | Optimized |
 |---|-------------|---------------------------------------------------------------------------------|-------------|-----------|
-| 1 | One Pointer | [1768. Merge Strings Alternately](one_pointer/1768_merge_strings_alternatively) | Done | Done      |
-| 2 |             | [1071. Greatest Common Divisor of Strings]()                                    | TODO | TODO      |
+| 1 | One Pointer | [1768. Merge Strings Alternately](one_pointer/1768_merge_strings_alternatively) | Done        | Done      |
+| 2 | Recursion | [1071. Greatest Common Divisor of Strings](recursion/1071_greatest_common_divisor_of_strings)                                    | Done        | Done      |
 
 ---
 
