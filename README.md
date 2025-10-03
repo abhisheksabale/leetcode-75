@@ -20,7 +20,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 |---|-------------|---------------------------------------------------------------------------------|-------------|-----------|
 | 1 | One Pointer | [1768. Merge Strings Alternately](one_pointer/1768_merge_strings_alternatively) | Done        | Done      |
 | 2 | Recursion   | [1071. Greatest Common Divisor of Strings](recursion/1071_greatest_common_divisor_of_strings)                                    | Done        | Done      |
-| 3 | Ad Hoc      | [1431. Kids With the Greatest Number of Candies](adhoc/1431_Kids With the Greatest Number of Candies)                                    | Done        | Done      |
+| 3 | Ad Hoc      | [1431. Kids With the Greatest Number of Candies](adhoc/1431_kids_with_the_greatest_number_of_candies)                                    | Done        | Done      |
 
 ---
 
