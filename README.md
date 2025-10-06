@@ -10,7 +10,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 ## 📊 Progress Tracker
 | Problems Solved | Total |
 |-----------------|-------|
-| **7**           | **75** ✅ |
+| **8**           | **75** ✅ |
 
 ---
 
@@ -24,7 +24,8 @@ This repository contains my solutions for **LeetCode 75**, with:
 | 4 | Greedy       | [605. Can Place Flowers](greedy/605_can_place_flowers)                                                | Done | Done      |
 | 5 | Two Pointers | [345. Reverse Vowels of a String](two_pointers/345_reverse_vowels_of_a_string)                        | Done | Done      |
 | 6 | Two Pointers | [151. Reverse Words in a String](two_pointers/151_reverse_words_in_a_string)                          | Done | Done      |
-| 7 | Prefix sum   | [238. Product of Array Except Self](prefix_sum/238_product_of_array_except_self)                         | Done | Done      |
+| 7 | Prefix sum   | [238. Product of Array Except Self](prefix_sum/238_product_of_array_except_self)                      | Done | Done      |
+| 8 | Greedy       | [334. Increasing Triplet Subsequence](greedy/334_increasing_triplet_subsequence)                        | Done | Done      |
 
 ---
 
