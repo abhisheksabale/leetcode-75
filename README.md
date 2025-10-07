@@ -10,7 +10,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 ## 📊 Progress Tracker
 | Problems Solved | Total |
 |-----------------|-------|
-| **8**           | **75** ✅ |
+| **9**           | **75** ✅ |
 
 ---
 
@@ -26,6 +26,8 @@ This repository contains my solutions for **LeetCode 75**, with:
 | 6 | Two Pointers | [151. Reverse Words in a String](two_pointers/151_reverse_words_in_a_string)                          | Done | Done      |
 | 7 | Prefix sum   | [238. Product of Array Except Self](prefix_sum/238_product_of_array_except_self)                      | Done | Done      |
 | 8 | Greedy       | [334. Increasing Triplet Subsequence](greedy/334_increasing_triplet_subsequence)                        | Done | Done      |
+| 9 | Two Pointers | [443. String Compression](two_pointers/345_reverse_vowels_of_a_string)                        | Done | Done      |
+
 
 ---
 
