@@ -10,7 +10,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 ## 📊 Progress Tracker
 | Problems Solved | Total |
 |-----------------|-------|
-| **10**          | **75** ✅ |
+| **11**          | **75** ✅ |
 
 ---
 
@@ -28,6 +28,7 @@ This repository contains my solutions for **LeetCode 75**, with:
 | 8  | Greedy       | [334. Increasing Triplet Subsequence](greedy/334_increasing_triplet_subsequence)                        | Done | Done      |
 | 9  | Two Pointers | [443. String Compression](two_pointers/345_reverse_vowels_of_a_string)                        | Done | Done      |
 | 10 | Two Pointers | [283. Move Zeroes](two_pointers/283_move_zeroes)                        | Done | Done      |
+| 11 | Two Pointers | [392. Is Subsequence](two_pointers/392_is_subsequence)                        | Done | Done      |
 
 
 ---
